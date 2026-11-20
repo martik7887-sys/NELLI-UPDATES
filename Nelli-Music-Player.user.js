@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NELLI STUDIO — Music Player
 // @namespace    https://nelli.studio/
-// @version      0.1.1
+// @version      0.1.3
 // @description  Собственный локальный музыкальный плеер NELLI STUDIO: плейлист, волна, перемотка, громкость и скорость
 // @match        *://*/*
 // @run-at       document-idle
